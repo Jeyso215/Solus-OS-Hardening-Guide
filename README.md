@@ -1,6 +1,6 @@
 # Solus 4.7 Endurance Hardening Guide
 
-This guide provides a comprehensive approach to hardening Solus 4.7 Endurance, focusing on enhancing security and privacy. The recommendations are based on the principles outlined in the Linux hardening guide, adapted for Solus.
+This guide provides a comprehensive approach to hardening Solus 4.7 Endurance, focusing on enhancing security and privacy. The recommendations are based on the principles outlined in the https://madaidans-insecurities.github.io/, adapted for Solus.
 
 ---
 
